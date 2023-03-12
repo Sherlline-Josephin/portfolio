@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Banking system",
+    "image": "./projectImages/bike.png",
+    "description": "Banking system with all basic online networking options availed to make the users enjoy seamless banking .",
+    "technologies": "C++ | STL |",
+    "github": "https://github.com/Sherlline-Josephin/BANKING-SYSTEM",
+    "deployed": "https://norrinradd8.github.io/bike_buddy/",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "BOOK RECOMMENDATION SYSTEM",
+    "image": "./projectImages/weather.png",
+    "technologies": "MACHINE LEARNING | COSINE SIMILARITY ALGORITHM |",
+    "description": "Recommendation of books to the users who are new to this field using ratings and matching the likliness using cosine similarity algorithm",
+    "github": "https://github.com/Sherlline-Josephin/Book-Recommendation-System",
+    "deployed": "https://mdyeates.github.io/weather-app/",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  {
+    "title": "HANGMAN GAME",
+    "image": "./projectImages/team.png",
+    "technologies": "C | FUNCTIONS | FILE |",
+    "description": "A wordle guesssing game which makes you kill the time by the same time get to know about new words.",
+    "github": "https://github.com/Sherlline-Josephin/Hangman-Game",
+    "deployed": "https://drive.google.com/file/d/1_atUXTM-L9r4NccsrPaaWqPyNu37ftwH/view",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  },
+  {
+    "title": "FETCH API",
+    "image": "./projectImages/quiz.png",
+    "technologies": "FRONTEND | REACT | API",
+    "description": "Rest API operation on fetching which involves the CRUD OPERATIONS on the inbuild backend database",
+    "github": "https://github.com/Sherlline-Josephin/BOT",
+    "deployed": "https://mdyeates.github.io/coding-quiz/",
+    "bgcolor": "#f85781",
+    "id": "4"
+  }
+
+  
+]
